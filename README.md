@@ -349,12 +349,6 @@ This project demonstrates:
 - All visualizations are saved to the `outputs/` directory
 - Cross-validation uses Stratified K-Fold for balanced splits
 
-## 🔗 References
-
-- EfficientNet: [Tan & Le, 2019](https://arxiv.org/abs/1905.11946)
-- MobileNetV2: [Sandler et al., 2018](https://arxiv.org/abs/1801.04381)
-- Grad-CAM: [Selvaraju et al., 2016](https://arxiv.org/abs/1610.02055)
-
 ## 📧 Project Information
 
 **Project Type**: Machine Learning Classification  
