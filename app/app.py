@@ -235,7 +235,7 @@ selected_model = st.sidebar.radio(
 )
 
 st.title("Klasifikasi Kondisi Jalan (Berlubang vs Mulus)")
-st.write("Unggah gambar permukaan jalan untuk dianalisis oleh sistem secara *real-time*.")
+st.write("Unggah gambar permukaan jalan untuk dianalisis oleh sistem.")
 
 uploaded_file = st.file_uploader("Pilih file gambar...", type=["jpg", "jpeg", "png"])
 
